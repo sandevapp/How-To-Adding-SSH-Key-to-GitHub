@@ -1,4 +1,4 @@
-#How To Add SSH Key to GitHub
+#How-To-Add-SSH-Key-to-GitHub
 
 Step 1: Install git first
 	
